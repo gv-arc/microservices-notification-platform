@@ -213,7 +213,3 @@ All client requests go through the **API Gateway** at `http://localhost:8080`.
 5. **MySQL per service** — separate schemas (`user_db`, `notification_db`) for data isolation (database-per-service pattern).
 
 ---
-
-## License
-
-MIT (adjust as needed for your submission).
